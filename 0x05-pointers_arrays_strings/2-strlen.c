@@ -2,7 +2,7 @@
 /**
  * _strlen -> return the length of a string
  * @s: char to check
- * Return 0
+ * Return 0 (Success)
  */
 int _strlen(char *s)
 {
